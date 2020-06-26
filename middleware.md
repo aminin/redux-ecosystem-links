@@ -65,10 +65,6 @@
   https://github.com/bdwain/redux-action-enhancer  
   Enhance your actions with values from the store. Inspired by connected components in react-redux.
   
-- **redux-error-middleware**  
-  https://github.com/johnrhampton/redux-error-middleware  
-  Middleware that dispatches defined actions when the current action has an error.
-  
 - **redux-multi-conditional**  
   https://github.com/JamesRandall/redux-multi-conditional  
   Conditionally dispatch multiple actions from one action creator

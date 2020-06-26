@@ -59,10 +59,6 @@
   https://github.com/Trimma/react-redux-isolate  
   Isolate Redux apps to sandboxed state subtrees.  Provides a way for multiple react-redux apps to share the same state tree, adhering to the principle of Single Source Of Truth, without requiring changes to the apps. It enables you to use sub-apps inside your redux app, without using multiple stores, and without requiring that you write your sub-apps in a particular manner. 
   
-- **react-redux-setstate**  
-  https://github.com/rundmt/react-redux-setstate  
-  Use this.props.setState just like this.setState.
-  
 - **Redux "subapps" example**  
   https://gist.github.com/gaearon/eeee2f619620ab7b55673a4ee2bf8400  
   A small snippet from Dan Abramov demonstrating setting up a separate store for each individual "sub-app" instance in a page.
@@ -287,10 +283,6 @@
 - **react-redux-private-props**  
   https://github.com/dylanonelson/react-redux-private-props  
   React/Redux add-on for managing private component state in a Redux store 
-  
-- **redux-lenses**  
-  https://github.com/kofile/redux-lenses  
-  A set of utility functions for dealing with redux state via Ramda lenses 
   
 - **k-redux-factory**  
   https://github.com/alakarteio/k-redux-factory  

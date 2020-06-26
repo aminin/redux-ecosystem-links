@@ -44,10 +44,6 @@
   https://github.com/matthewmueller/redux-routes  
   Simple redux history middleware.
   
-- **redux-react-router-middleware**  
-  https://github.com/aarongloege/redux-react-router-middleware  
-  A middleware for redux that allows for transition definitions to perform with react-router.
-  
 - **redux-addressbar**  
   https://github.com/Yaska/redux-addressbar  
   Treat the address bar as just another input, and render your app only from Redux store state.

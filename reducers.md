@@ -119,10 +119,6 @@
   https://github.com/visusnet/combine-cross-slice-reducers  
   Similar to `combineSectionReducers` but introduces stages which gives lower-ranking reducers access to the global state that results from higher-ranking reducers.
   
-- **Redux Conditional**  
-  https://github.com/ypxing/redux-conditional  
-  Conditionally apply actions to Redux reducers to make sharing reducers easy.
-  
 - **redux-concatenate-reducers**  
   https://github.com/ryo33/redux-concatenate-reducers  
   Concatenates reducers and merges states returned by them.
@@ -496,10 +492,6 @@
   https://github.com/aakashns/dextrous  
   A tiny library with utilities for Redux reducer composition.
 
-- **redux-reorder**  
-  https://github.com/nonnontrivial/redux-reorder  
-  Higher-order reducer that tracks order fluctuation within iterable state.  Appends a given reducer with a representation of how its new order has changed from a previous order.
-  
 - **redux-reset-state**  
   https://github.com/cadleo/redux-reset-state  
   A redux plugin to reset the redux state you specify 

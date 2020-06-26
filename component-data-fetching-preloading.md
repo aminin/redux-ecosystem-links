@@ -141,10 +141,6 @@
   https://github.com/ntkoso/redux-saga-fetcher  
   redux-saga-fetcher is an universal data fetching library for Redux Saga and React Router.
   
-- **redux-lazy-props**  
-  https://github.com/markshlick/redux-lazy-props  
-  Lazy fetching of data for connected components.
-  
 - **async-props**  
   https://github.com/manaflair/async-props  
   Easy React/Redux data preload
@@ -256,10 +252,6 @@
 - **react-redux-component-init**  
   https://github.com/mediamonks/react-redux-component-init  
   A library to manage react component initialization in isomorphic applications using Redux
-  
-- **redux-fetch-on-mount**  
-  https://github.com/orzarchi/redux-fetch-on-mount  
-  A higher order component that performs a redux action when the wrapped component is mounted 
   
 - **redux-api-react-switch**  
   https://github.com/xurei/redux-api-react-switch  

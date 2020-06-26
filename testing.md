@@ -14,10 +14,6 @@
   https://github.com/conorhastings/redux-test-recorder  
   Redux test recorder is a redux middleware + included component for automagically generating tests for your reducers based on the actions in your app.
   
-- **redux-ava**  
-  https://github.com/sotojuan/redux-ava  
-  Write AVA tests for redux pretty quickly
-  
 - **redux-chaos**  
   https://github.com/thomas-jeepe/redux-chaos  
   Dead Simple Chaos/Property Testing with Redux

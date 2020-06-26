@@ -467,10 +467,6 @@
   https://github.com/dashed/redux-lens  
   Apply a redux reducer and an action at the specified path of your application state tree
   
-- **redux-container-builder**  
-  https://github.com/orzarchi/redux-container-builder  
-  A simpler interface to redux's connect with common utilities built in 
-  
 - **reduxlet**  
   https://github.com/Rokt33r/reduxlet  
   Create a redux store, which is context-free, for a single container component. Let's use actions and reducer instead of using this.setState!  Also, lots of sugar is inside by default. Binding actions to dispatch, composing enhancers and applying middleware become much easier
@@ -523,10 +519,6 @@
 - **redux-redactions**  
   https://github.com/selsamman/redux-redactions  
   Reactions simplifies actions and reducers: actions and reducers defined right next to each other, no need for action type strings, no need to worry about not mutating the state, no need to wire togethe a reducer hierarchy, and in fact you don't define reducers - you just define functions that return a state slice.
-  
-- **redux-modules**  
-  https://github.com/wtgtybhertgeghgtwtg/redux-modules  
-  A simplistic alternate approach to https://github.com/procore/redux-modules.
   
 - **disprux**  
   https://github.com/xaviercobain88/disprux  
